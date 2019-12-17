@@ -12,3 +12,5 @@
 * There are 26 premary components were used and only represent 80% of the total variance, so a better feature selection may needed.
 * For the data exploration, a box plot may needed for removing some potential outliers which will lead an overfit or inaccurate prediction.
 * Also, for all the models, it will be worth to pass different functions to tune algorithms.
+
+![Picture2](https://user-images.githubusercontent.com/46268295/71008364-19f36000-20ae-11ea-872a-9057a8dfa605.png)
